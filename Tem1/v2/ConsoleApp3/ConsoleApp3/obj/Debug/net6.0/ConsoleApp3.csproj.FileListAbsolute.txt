@@ -1,0 +1,15 @@
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ref\ConsoleApp3.dll
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\akara\OneDrive\Рабочий стол\Programming methods\Tem1\v2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
